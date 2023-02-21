@@ -1,1 +1,1 @@
-const arr = [5,5,5];
+const numberOfFilms = prompt('Сколько фильмов вы уже просмотрели?','');
